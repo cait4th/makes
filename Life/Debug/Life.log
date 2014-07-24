@@ -1,0 +1,31 @@
+﻿2013/07/04 22:13:05 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\youta\Desktop\Life\Life.vcxproj" (build ターゲット)。
+     1>InitializeBuildStatus:
+         "AlwaysCreate" が指定されたため "Debug\Life.unsuccessfulbuild" を作成しています。
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\youta\Documents\DxLib_VC\プロジェクトに追加すべきファイル_VC用" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt System.cpp main.cpp
+         System.cpp
+         コードを生成中...
+         スキップ中... (関連する変更は検出されませんでした)
+         main.cpp
+       ManifestResourceCompile:
+         すべての出力が最新のものです。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\youta\Desktop\Life\Debug\Life.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\youta\Documents\DxLib_VC\プロジェクトに追加すべきファイル_VC用" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Life.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\youta\Desktop\Life\Debug\Life.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\youta\Desktop\Life\Debug\Life.lib" /MACHINE:X86 Debug\Life.exe.embed.manifest.res
+         Debug\Bydo.obj
+         Debug\main.obj
+         Debug\System.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Life.exe.embed.manifest" /manifest Debug\Life.exe.intermediate.manifest
+         すべての出力が最新のものです。
+       LinkEmbedManifest:
+         すべての出力が最新のものです。
+         Life.vcxproj -> C:\Users\youta\Desktop\Life\Debug\Life.exe
+       FinalizeBuildStatus:
+         ファイル "Debug\Life.unsuccessfulbuild" を削除しています。
+         "Debug\Life.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\youta\Desktop\Life\Life.vcxproj" (build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.92
